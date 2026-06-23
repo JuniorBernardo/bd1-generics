@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        Lista<String> lista = new ListaVetor<>();
+        Lista<String> lista = new ListaEncadeada<>();
 
         // Inserindo valores
         lista.add("Banana");
